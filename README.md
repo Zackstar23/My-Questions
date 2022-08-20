@@ -1,4 +1,4 @@
 # My-Questions
- -Arrays 
- -Strings
+ -Arrays \n
+ -Strings\n
  -linked lists
